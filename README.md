@@ -1,22 +1,36 @@
-# Kids Case Pack — Field-Ready Bundle
+# Ethan–Kobe Case — Belgium (Public Record)
 
-Purpose: organize your children’s case into a clear, portable set of documents you can keep, publish, or submit when you choose.
+This repository preserves a clear, verifiable public record concerning events affecting Diana Gayanovich and her children (Kobe and Ethan). It is intended to maintain an auditable chain of custody for timelines, claims, and supporting evidence.
 
-## What’s inside
-- `TIMELINE.md` — one-page timeline of key events
-- `FACTS_AND_CLAIMS.md` — facts (what’s undisputed) and claims (what you contest), plus procedural flags
-- `ASKS_AND_REMEDIES.md` — what you are requesting now and next
-- `EVIDENCE_INDEX.md` — index of files and where each fact comes from
-- `CONTACTS_LOG.md` — running log of calls/emails
-- `WITNESS_LIST.md` — who can attest to what
-- `RIGHTS_AND_POLICIES.md` — space to note articles/rights you rely on (fill in when ready)
-- `COVER_LETTER_DRAFT.md` — short, neutral cover letter template for submissions
+- Canonical repository: https://github.com/DianaSion/Ethan-Kobe-Case-Belgium-
+- License: Immutable Origin License (IOL) v1.0 — see `LICENSE-ORIGIN-IMMUTABLE.md`
+- Integrity goal: preserve exact wording, order, and attached materials without alteration.
 
-## Quick start
-1. Open `TIMELINE.md` and fill dates you remember first. Don’t worry about order; we’ll sort later.
-2. In `FACTS_AND_CLAIMS.md`, copy each fact and attach a source file name (from `EVIDENCE_INDEX.md`).
-3. In `ASKS_AND_REMEDIES.md`, choose the items you want active *now* and delete the rest.
-4. Keep `CONTACTS_LOG.md` as your running diary. Short entries are fine.
-5. When you’re ready to send anything, use `COVER_LETTER_DRAFT.md` and attach the specific pages or files referenced.
+## Contents (planned)
+- `TIMELINE.md` — concise chronology of key events
+- `FACTS_AND_CLAIMS.md` — neutral facts, contested claims, and procedural flags
+- `EVIDENCE_INDEX.md` — index of files and citations to source pages
+- `CONTACTS_LOG.md` — running log of communications
+- `WITNESS_LIST.md` — potential witnesses/support
+- `RIGHTS_AND_POLICIES.md` — relied-on rights/policies
+- `COVER_LETTER_DRAFT.md` — short, neutral cover letter for submissions
 
-> Tip: keep everything in plain text/Markdown for easy posting (GitHub, static site, archive).
+## Integrity and immutability
+- The license for this repository permits only exact, verbatim copying and public display with attribution. No edits or derivative works are allowed without explicit written permission from the licensor.
+- Suggested repository settings for integrity:
+  - Close pull requests; accept suggestions via Issues only.
+  - Enable branch protection on `main` (no force-push, require linear history).
+  - Use signed releases/tags when publishing checkpoints.
+- Mirrors must be exact copies that include this README and the license file.
+
+## How to contribute or respond
+- Do not submit changes; open an Issue if you have corrections or references to add.
+- When citing this record, link to the canonical repository URL and the specific file path/commit.
+
+## Verification
+- Check you are viewing the canonical URL above.
+- Prefer links pinned to a commit SHA for evidence references.
+- If a checksum manifest or signed release is provided later, verify against those signatures.
+
+Author: Diana Gayanovich (@DianaSion)  
+Date: 2025-12-21
