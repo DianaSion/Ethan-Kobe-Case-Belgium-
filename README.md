@@ -18,8 +18,8 @@ This repository preserves a clear, verifiable public record concerning events af
 ## Integrity and immutability
 - The license for this repository permits only exact, verbatim copying and public display with attribution. No edits or derivative works are allowed without explicit written permission from the licensor.
 - Suggested repository settings for integrity:
-  - Close pull requests; accept suggestions via Issues only.
-  - Enable branch protection on `main` (no force-push, require linear history).
+  - Enable branch protection on `main` (no force-push; require linear history).
+  - Require pull request reviews; do not merge changes to core files without explicit approval from the licensor.
   - Use signed releases/tags when publishing checkpoints.
 - Mirrors must be exact copies that include this README and the license file.
 
