@@ -1,13 +1,15 @@
-# EVIDENCE INDEX
+# Evidence Index (Public)
 
-List every file you rely on, where it lives, and what each supports. Add links if you post them online.
+Release tag: v1-immutable-core-2025-12-22
 
-| ID | File name | Location (path / URL) | What it supports | Notes |
-|---|---|---|---|---|
-| E1 | ETHAN_case_report.pdf |  | Sequencing, subsidies, labeling | pp. 46–54 |
-| E2 | Official_Request_for_Interdisciplinary_Investigation.pdf |  | Pattern of technological interference; procedural context |  |
-| E3 | Preventing_Abuse_of_Stolen_Power.pdf |  | Non‑erasure / authorship and misuse clauses |  |
-| E4 | Diana_Social_Services_Statement.docx |  | Your firsthand statement |  |
-| E5 | Police_email.pdf |  | Attempts to seek help, responses |  |
+This index lists public-safe evidence references without exposing sensitive content. Paste the final release asset URLs after you attach files to the release.
 
-> Add more rows for every document you uploaded or plan to publish.
+| ID    | Description                                   | Date         | Release asset link |
+|-------|-----------------------------------------------|--------------|--------------------|
+| E-001 | [placeholder]                                 | [YYYY-MM-DD] | https://github.com/DianaSion/Ethan-Kobe-Case-Belgium-/releases/download/v1-immutable-core-2025-12-22/[FILENAME] |
+| E-002 | [placeholder]                                 | [YYYY-MM-DD] | https://github.com/DianaSion/Ethan-Kobe-Case-Belgium-/releases/download/v1-immutable-core-2025-12-22/[FILENAME] |
+| E-003 | [placeholder]                                 | [YYYY-MM-DD] | https://github.com/DianaSion/Ethan-Kobe-Case-Belgium-/releases/download/v1-immutable-core-2025-12-22/[FILENAME] |
+
+Notes:
+- Upload large files by editing the release: https://github.com/DianaSion/Ethan-Kobe-Case-Belgium-/releases/tag/v1-immutable-core-2025-12-22
+- After upload, copy each asset URL and paste it in the table above.
